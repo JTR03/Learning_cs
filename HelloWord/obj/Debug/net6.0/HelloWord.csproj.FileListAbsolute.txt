@@ -1,0 +1,15 @@
+C:\Users\SERVER\Desktop\github\Learning_cs\HelloWord\bin\Debug\net6.0\HelloWord.exe
+C:\Users\SERVER\Desktop\github\Learning_cs\HelloWord\bin\Debug\net6.0\HelloWord.deps.json
+C:\Users\SERVER\Desktop\github\Learning_cs\HelloWord\bin\Debug\net6.0\HelloWord.runtimeconfig.json
+C:\Users\SERVER\Desktop\github\Learning_cs\HelloWord\bin\Debug\net6.0\HelloWord.dll
+C:\Users\SERVER\Desktop\github\Learning_cs\HelloWord\bin\Debug\net6.0\HelloWord.pdb
+C:\Users\SERVER\Desktop\github\Learning_cs\HelloWord\obj\Debug\net6.0\HelloWord.csproj.AssemblyReference.cache
+C:\Users\SERVER\Desktop\github\Learning_cs\HelloWord\obj\Debug\net6.0\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERVER\Desktop\github\Learning_cs\HelloWord\obj\Debug\net6.0\HelloWord.AssemblyInfoInputs.cache
+C:\Users\SERVER\Desktop\github\Learning_cs\HelloWord\obj\Debug\net6.0\HelloWord.AssemblyInfo.cs
+C:\Users\SERVER\Desktop\github\Learning_cs\HelloWord\obj\Debug\net6.0\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\SERVER\Desktop\github\Learning_cs\HelloWord\obj\Debug\net6.0\HelloWord.dll
+C:\Users\SERVER\Desktop\github\Learning_cs\HelloWord\obj\Debug\net6.0\refint\HelloWord.dll
+C:\Users\SERVER\Desktop\github\Learning_cs\HelloWord\obj\Debug\net6.0\HelloWord.pdb
+C:\Users\SERVER\Desktop\github\Learning_cs\HelloWord\obj\Debug\net6.0\HelloWord.genruntimeconfig.cache
+C:\Users\SERVER\Desktop\github\Learning_cs\HelloWord\obj\Debug\net6.0\ref\HelloWord.dll
