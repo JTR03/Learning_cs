@@ -1,0 +1,15 @@
+C:\Users\SERVER\Desktop\github\Learning_cs\Program_flow\conditionals\bin\Debug\net6.0\conditionals.exe
+C:\Users\SERVER\Desktop\github\Learning_cs\Program_flow\conditionals\bin\Debug\net6.0\conditionals.deps.json
+C:\Users\SERVER\Desktop\github\Learning_cs\Program_flow\conditionals\bin\Debug\net6.0\conditionals.runtimeconfig.json
+C:\Users\SERVER\Desktop\github\Learning_cs\Program_flow\conditionals\bin\Debug\net6.0\conditionals.dll
+C:\Users\SERVER\Desktop\github\Learning_cs\Program_flow\conditionals\bin\Debug\net6.0\conditionals.pdb
+C:\Users\SERVER\Desktop\github\Learning_cs\Program_flow\conditionals\obj\Debug\net6.0\conditionals.csproj.AssemblyReference.cache
+C:\Users\SERVER\Desktop\github\Learning_cs\Program_flow\conditionals\obj\Debug\net6.0\conditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERVER\Desktop\github\Learning_cs\Program_flow\conditionals\obj\Debug\net6.0\conditionals.AssemblyInfoInputs.cache
+C:\Users\SERVER\Desktop\github\Learning_cs\Program_flow\conditionals\obj\Debug\net6.0\conditionals.AssemblyInfo.cs
+C:\Users\SERVER\Desktop\github\Learning_cs\Program_flow\conditionals\obj\Debug\net6.0\conditionals.csproj.CoreCompileInputs.cache
+C:\Users\SERVER\Desktop\github\Learning_cs\Program_flow\conditionals\obj\Debug\net6.0\conditionals.dll
+C:\Users\SERVER\Desktop\github\Learning_cs\Program_flow\conditionals\obj\Debug\net6.0\refint\conditionals.dll
+C:\Users\SERVER\Desktop\github\Learning_cs\Program_flow\conditionals\obj\Debug\net6.0\conditionals.pdb
+C:\Users\SERVER\Desktop\github\Learning_cs\Program_flow\conditionals\obj\Debug\net6.0\conditionals.genruntimeconfig.cache
+C:\Users\SERVER\Desktop\github\Learning_cs\Program_flow\conditionals\obj\Debug\net6.0\ref\conditionals.dll
