@@ -1,0 +1,15 @@
+C:\Users\SERVER\Desktop\github\Learning_cs\String\string_formatting\bin\Debug\net6.0\string_formatting.exe
+C:\Users\SERVER\Desktop\github\Learning_cs\String\string_formatting\bin\Debug\net6.0\string_formatting.deps.json
+C:\Users\SERVER\Desktop\github\Learning_cs\String\string_formatting\bin\Debug\net6.0\string_formatting.runtimeconfig.json
+C:\Users\SERVER\Desktop\github\Learning_cs\String\string_formatting\bin\Debug\net6.0\string_formatting.dll
+C:\Users\SERVER\Desktop\github\Learning_cs\String\string_formatting\bin\Debug\net6.0\string_formatting.pdb
+C:\Users\SERVER\Desktop\github\Learning_cs\String\string_formatting\obj\Debug\net6.0\string_formatting.csproj.AssemblyReference.cache
+C:\Users\SERVER\Desktop\github\Learning_cs\String\string_formatting\obj\Debug\net6.0\string_formatting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERVER\Desktop\github\Learning_cs\String\string_formatting\obj\Debug\net6.0\string_formatting.AssemblyInfoInputs.cache
+C:\Users\SERVER\Desktop\github\Learning_cs\String\string_formatting\obj\Debug\net6.0\string_formatting.AssemblyInfo.cs
+C:\Users\SERVER\Desktop\github\Learning_cs\String\string_formatting\obj\Debug\net6.0\string_formatting.csproj.CoreCompileInputs.cache
+C:\Users\SERVER\Desktop\github\Learning_cs\String\string_formatting\obj\Debug\net6.0\string_formatting.dll
+C:\Users\SERVER\Desktop\github\Learning_cs\String\string_formatting\obj\Debug\net6.0\refint\string_formatting.dll
+C:\Users\SERVER\Desktop\github\Learning_cs\String\string_formatting\obj\Debug\net6.0\string_formatting.pdb
+C:\Users\SERVER\Desktop\github\Learning_cs\String\string_formatting\obj\Debug\net6.0\string_formatting.genruntimeconfig.cache
+C:\Users\SERVER\Desktop\github\Learning_cs\String\string_formatting\obj\Debug\net6.0\ref\string_formatting.dll
